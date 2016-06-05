@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">B15_WeatherFragment</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="cityname">city</string>
+    <string name="statename">state</string>
+    <string name="buttonname">GET DATA</string>
+    <string name="positivebutton">ok</string>
+</resources>
